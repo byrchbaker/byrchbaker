@@ -1,1 +1,25 @@
-# empty
+- key: Name
+  value: Byrch
+- key: Description
+  value:
+    - Hello!
+    - I am a student aspiring to become a cybersecurity engineer
+    - Lets connect on linkedin!
+  typed: true
+- key: Resume
+  value: resume.pdf
+  url: /resume.pdf
+- key: Address
+  value:
+    - Earth
+- key: Contact
+  value:
+    - key: Email
+      value: hiring@byrch.me
+      url: "mailto:hiring@byrch.me"
+- key: Profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/byrchbaker
+    - value: GitHub
+      url: https://github.com/byrchbaker
