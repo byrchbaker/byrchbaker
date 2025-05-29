@@ -6,8 +6,8 @@
     - i am a student...
     - i am a cybersecurity enthusiast...
     - i am a researcher...
-    - lets connect on the linkedin!
-  typed: true
+    - lets connect on linkedin!
+  typed: false
 - key: Resume
   value: resume.pdf
   url: /resume.pdf
