@@ -7,15 +7,15 @@
     - i am a cybersecurity enthusiast...
     - i am a researcher...
     - lets connect on linkedin!
-  typed: false
+  typed: true
 - key: Resume
   value: resume.pdf
   url: /resume.pdf
 - key: Contact
   value:
     - key: Email
-      value: hiring@byrch.me
-      url: "mailto:hiring@byrch.me"
+      value: hello@byrch.me
+      url: "mailto:hello@byrch.me"
 - key: Profiles
   value:
     - value: LinkedIn
