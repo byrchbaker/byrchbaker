@@ -11,6 +11,9 @@
 - key: Resume
   value: resume.pdf
   url: /resume.pdf
+- key: Research
+  value: A Study of Algorithmic Threat Detection Against Investigator-Led Response Methodologies
+  url: /resume.pdf
 - key: Contact
   value:
     - key: Email
